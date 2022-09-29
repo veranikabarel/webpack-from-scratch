@@ -19,7 +19,7 @@ Project that was made based on the Traversy Media tutorial to learn setting up w
 
 ## Demo
 
-Check the [demo here]().
+Check the [demo here](https://timely-cobbler-1efeb6.netlify.app/).
 
 ## Technologies
 
