@@ -15,7 +15,7 @@ Project that was made based on the Traversy Media tutorial to learn setting up w
 
 ## Screenshots
 
-![screenshot]()
+![screenshot](https://user-images.githubusercontent.com/48052206/193016345-d1c42bc8-18ca-4255-abf0-09b7a28178fb.png)
 
 ## Demo
 
