@@ -17,13 +17,17 @@ Project that was made based on the Traversy Media tutorial to learn setting up w
 
 ![screenshot]()
 
+## Technologies
+
+- [Webpack](https://github.com/webpack/webpack)
+
 ## Demo
 
 Check the [demo here](https://timely-cobbler-1efeb6.netlify.app/).
 
-## Technologies
+## Status
 
-- [Webpack](https://github.com/webpack/webpack)
+Finished
 
 ## Credits
 
