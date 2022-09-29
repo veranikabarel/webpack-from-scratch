@@ -1,4 +1,4 @@
-# QR Code genrator
+# Random dad joke generator
 
 ## Table of contents
 
@@ -14,6 +14,7 @@
 Project that was made based on the Traversy Media tutorial to learn setting up webpack from scratch.
 
 ## Screenshots
+
 ![screenshot]()
 
 ## Demo
@@ -26,4 +27,4 @@ Check the [demo here]().
 
 ## Credits
 
-[icanhazdadjoke.com](https://icanhazdadjoke.com) - random dad's joke generator
+[icanhazdadjoke.com](https://icanhazdadjoke.com) - random dad joke generator
