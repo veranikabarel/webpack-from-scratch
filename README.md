@@ -1,11 +1,13 @@
 # Random dad joke generator
 
+The website with a random dad's jokes generator. The main purpose was to learn how to configure webpack from scratch.
+
 ## Table of contents
 
 - [General info](#general-info)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Demo](#installation-and-running)
+- [Demo](#demo)
 - [Status](#status)
 - [Credits](#credits)
 
